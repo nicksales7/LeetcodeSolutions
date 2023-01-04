@@ -1,7 +1,7 @@
 ﻿namespace Problem231;
 
 
-public class Program {
+public abstract class Program {
 
     public static void Main(string[] args)
     {
