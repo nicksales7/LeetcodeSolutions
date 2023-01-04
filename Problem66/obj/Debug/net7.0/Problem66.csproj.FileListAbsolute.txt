@@ -1,0 +1,15 @@
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/bin/Debug/net7.0/Problem66
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/bin/Debug/net7.0/Problem66.deps.json
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/bin/Debug/net7.0/Problem66.runtimeconfig.json
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/bin/Debug/net7.0/Problem66.dll
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/bin/Debug/net7.0/Problem66.pdb
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.csproj.AssemblyReference.cache
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.AssemblyInfoInputs.cache
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.AssemblyInfo.cs
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.csproj.CoreCompileInputs.cache
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.dll
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/refint/Problem66.dll
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.pdb
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/Problem66.genruntimeconfig.cache
+/home/nicholassales/RiderProjects/LeetcodeSolutions/Problem66/obj/Debug/net7.0/ref/Problem66.dll
